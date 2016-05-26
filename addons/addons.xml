@@ -4,7 +4,6 @@
   <requires>
     <import addon="xbmc.python" version="2.19.0" />
     <import addon="script.module.beautifulsoup" version="3.2.1"></import>
-    <import addon="script.module.urlresolver" version="2.10.0"></import>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
