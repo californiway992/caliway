@@ -1,0 +1,5 @@
+v1.0.1
+ -Added Python 2.4 compatibility
+
+v1.0.0
+ -Initial version
