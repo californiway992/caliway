@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.1channel" name="1Channel" version="1.0.1" provider-name="californi">
+<addon id="plugin.video.1channel" name="1Channel" version="1.0.2" provider-name="californi">
   <requires>
     <import addon="xbmc.python" version="2.19.0" />
     <import addon="script.module.beautifulsoup" version="3.2.1"></import>
