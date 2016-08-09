@@ -1,8 +1,0 @@
-v1.0.2
- -Fixed but with Python 2.4 compatibility
-
-v1.0.1
- -Added Python 2.4 compatibility
-
-v1.0.0
- -Initial version
